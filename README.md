@@ -4,4 +4,8 @@ The score is calculated based on the distance covered by the helicopter before t
 
 # How to play 
 The game is to move the helicopter up and down using function keys from the keyboard or the mouse and to save the helicopter from either crashing with the obstacles moving towards the
-helicopter or from crashing up and down in the frame.
+helicopter or from crashing up and down in the frame.<br>
+<br>
+You can move the helicopter up by pressing ‘w’ from the keyboard or ‘left click’ from the
+mouse. You can move the helicopter down by pressing ‘m’ from the keyboard or it will
+automatically move down when released free.
